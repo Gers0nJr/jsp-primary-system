@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.nome { TEXT-ALIGN: left; MARGIN: 0 auto; PADDING: 0px 0px 0px 10px; TEXT-TRANSFORM: capitalize; COLOR: #000; FONT-SIZE: 15px; }
+        .funcao {TEXT-ALIGN: left; TEXT-TRANSFORM: capitalize; MARGIN: 0px auto; PADDING: 0px 0px 0px 10px; COLOR: #000; FONT-SIZE: 12px; }
+        .dados {TEXT-ALIGN: left; MARGIN: 0px auto; PADDING: 0px 0px 0px 10px; COLOR: #000; FONT-SIZE: 11px}
+        
+        .box1 {
+          width:500px;
+          height:150px;
+
+        }
